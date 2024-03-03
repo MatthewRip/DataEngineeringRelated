@@ -1,8 +1,8 @@
 # DataEngineeringRelated
 my brain hurty, if only I was not stupid.
 
-
-A place to record how to do things and some other things.
+A place to store information relating to AWS data engineering.
+Also possible AWS certification prep
 
 
 1. Data Engineering Fundamentals
